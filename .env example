@@ -1,0 +1,6 @@
+
+
+
+GITHUB_CLIENT_SECRET = Must Create App on Github > Setting > Developer > client Secret
+GITHUB_CLIENT_ID = Must Create App on Github > Setting > Developer > client id
+JWT_SECRET = Random MD5 Generated Number
